@@ -22,9 +22,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaStellar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](Your_Twitter_URL)
-
 ---
 ⭐️ From [PrismaStellar](https://github.com/PrismaStellar)
