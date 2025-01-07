@@ -1,17 +1,22 @@
 # Hi there, I'm PrismaStellar! 👋
 
-<table>
-<tr>
-<td width="40%">
+<table style="border: none; margin: 0 auto;">
+<tr style="border: none;">
+<td width="40%" style="border: none; vertical-align: middle;">
+
+<div align="center">
 
 ## 🚀 About Me
 - 💻 Full Half Stack Developer
 - 🌱 Always learning and growing
 - ⚡ Building cool projects
 
+</div>
 </td>
-<td width="80%">
-<img align="right" src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="240"/>
+<td width="80%" style="border: none; vertical-align: middle;">
+<div align="center">
+<img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="240"/>
+</div>
 </td>
 </tr>
 </table>
