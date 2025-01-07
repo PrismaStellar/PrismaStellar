@@ -1,7 +1,7 @@
 # Hi there, I'm PrismaStellar! 👋
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 2;">
+  <div style="flex: 1;">
     <h2>🚀 About Me</h2>
     <ul>
       <li>💻 Full Half Stack Developer</li>
