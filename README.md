@@ -1,15 +1,15 @@
 # Hi there, I'm PrismaStellar! 👋
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
+  <div style="flex: 2;">
     <h2>🚀 About Me</h2>
     <ul>
-      <li>💻 Full Stack Developer</li>
+      <li>💻 Full Half Stack Developer</li>
       <li>🌱 Always learning and growing</li>
       <li>⚡ Building cool projects</li>
     </ul>
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 2;">
     <img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="30%" style="max-width: 300px;"/>
   </div>
 </div>
