@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="20%">
+<td width="40%">
 
 ## 🚀 About Me
 - 💻 Full Half Stack Developer
@@ -11,7 +11,7 @@
 
 </td>
 <td width="80%">
-<img align="right" src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="350"/>
 </td>
 </tr>
 </table>
