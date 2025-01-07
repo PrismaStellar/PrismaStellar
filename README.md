@@ -1,18 +1,20 @@
 # Hi there, I'm PrismaStellar! 👋
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
-    <h2>🚀 About Me</h2>
-    <ul>
-      <li>💻 Full Half Stack Developer</li>
-      <li>🌱 Always learning and growing</li>
-      <li>⚡ Building cool projects</li>
-    </ul>
-  </div>
-  <div style="flex: 2;">
-    <img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="30%" style="max-width: 300px;"/>
-  </div>
-</div>
+<table>
+<tr>
+<td width="70%">
+
+## 🚀 About Me
+- 💻 Full Half Stack Developer
+- 🌱 Always learning and growing
+- ⚡ Building cool projects
+
+</td>
+<td width="30%">
+<img align="right" src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="250"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
