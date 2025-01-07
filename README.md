@@ -1,7 +1,7 @@
 # Hi there, I'm PrismaStellar! 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/your-image.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="300"/>
 </div>
 
 ## 🚀 About Me
