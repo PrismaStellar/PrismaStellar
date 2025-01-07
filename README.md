@@ -10,7 +10,7 @@
     </ul>
   </div>
   <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="100%" style="max-width: 300px;"/>
+    <img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="30%" style="max-width: 300px;"/>
   </div>
 </div>
 
