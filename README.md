@@ -11,7 +11,7 @@
 
 </td>
 <td width="80%">
-<img align="right" src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="240"/>
 </td>
 </tr>
 </table>
