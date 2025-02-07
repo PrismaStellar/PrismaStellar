@@ -1,11 +1,11 @@
-# Hi there, I'm PrismaStellar! 👋
+# Hi there, I'm PrismaStellar! ψ(._. )>
 
 <div align="center">
 
-## 🚀 About Me
-- 💻 Full Half Stack Developer
-- 🌱 Always learning and growing
-- ⚡ Building cool projects
+## d=====(￣▽￣*)b About Me
+-  Full Half Stack Developer (*/ω＼*)
+-  Always learning and growing o(*￣▽￣*)o
+-  Building cool projects (_　_)。゜zｚＺ
 
 <img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma2.png" width="500"/>
 </div>
