@@ -15,7 +15,7 @@
 </td>
 <td width="80%" style="border: none; vertical-align: middle;">
 <div align="center">
-<img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma.png" width="240"/>
+<img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma2.png" width="240"/>
 </div>
 </td>
 </tr>
