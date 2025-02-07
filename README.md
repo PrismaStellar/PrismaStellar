@@ -1,9 +1,5 @@
 # Hi there, I'm PrismaStellar! 👋
 
-<table style="border: none; margin: 0 auto;">
-<tr style="border: none;">
-<td width="40%" style="border: none; vertical-align: middle;">
-
 <div align="center">
 
 ## 🚀 About Me
@@ -11,15 +7,8 @@
 - 🌱 Always learning and growing
 - ⚡ Building cool projects
 
+<img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma2.png" width="500"/>
 </div>
-</td>
-<td width="100%" style="border: none; vertical-align: middle;">
-<div align="center">
-<img src="https://raw.githubusercontent.com/PrismaStellar/PrismaStellar/main/assets/prisma2.png" width="300"/>
-</div>
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
