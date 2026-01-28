@@ -3,7 +3,6 @@
 <div align="center">
 
 ## d=====(￣▽￣*)b About Me
--  Full Half Stack Developer (*/ω＼*)
 -  Always learning and growing o(*￣▽￣*)o|
 -  Building cool projects (_　_)。゜zｚＺ
 
